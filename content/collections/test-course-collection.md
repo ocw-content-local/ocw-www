@@ -6,7 +6,7 @@ courselists:
 cover-image:
   content: ''
   website: ocw-www
-description: Hello from the other side
+description: Hello world
 featured-courses:
   content: ''
   website: ocw-www
