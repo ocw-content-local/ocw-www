@@ -9,6 +9,7 @@ metadata:
   caption: ''
   credit: ''
   image_alt: ''
+resourcetype: Image
 title: Test image
 uid: 08989b77-9eb9-4a81-aaa9-0778c6cc8736
 ---
