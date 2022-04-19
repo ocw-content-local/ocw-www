@@ -5,6 +5,7 @@ draft: false
 file: /media/ocw-www/b66b2f5642b74bdf93a7a0bd6b17ffa8_4aa8ff73733c0f7a2c4bc98f4298f1ab_22.png
 file_type: image/png
 filetype: Image
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 metadata:
   caption: Hello world
   credit: ''
