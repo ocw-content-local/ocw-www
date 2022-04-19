@@ -8,6 +8,7 @@ metadata:
   caption: ''
   credit: ''
   image_alt: ''
+resourcetype: Image
 title: Hello 5
 uid: e87895d9-236b-481e-abda-310ed37972e2
 ---
