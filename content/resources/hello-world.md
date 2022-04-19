@@ -10,7 +10,7 @@ image_metadata:
   image-alt: ''
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
-title: hello world
+title: hello 2
 uid: 86b88c6d-f569-47cb-b4a2-e45b19052c1c
 video_files:
   video_captions_file: ''
