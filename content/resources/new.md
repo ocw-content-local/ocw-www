@@ -7,9 +7,10 @@ file_type: image/png
 filetype: Image
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 metadata:
-  caption: Hello world
+  caption: ''
   credit: ''
-  image_alt: None
+  image_alt: ''
+resourcetype: Image
 title: Hello 4
 uid: b66b2f56-42b7-4bdf-93a7-a0bd6b17ffa8
 ---
