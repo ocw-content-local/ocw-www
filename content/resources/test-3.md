@@ -4,7 +4,6 @@ description: ''
 draft: false
 file: /media/ocw-www/958f3881ae80429e8585f6fb747f605f_be_careful_guys.jpeg
 file_type: image/jpeg
-filetype: Image
 metadata:
   caption: ''
   credit: ''
