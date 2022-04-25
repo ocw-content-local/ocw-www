@@ -8,7 +8,6 @@ metadata:
   caption: ''
   credit: ''
   image_alt: ''
-resourcetype: Image
-title: Hello. 6
-uid: bc73e66d-6cd0-4561-8a1a-5e35f23f09c5
+title: Test 1
+uid: d81eed13-9100-4a30-b61f-5b8a7c3379c6
 ---
