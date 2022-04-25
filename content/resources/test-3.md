@@ -8,6 +8,7 @@ metadata:
   caption: ''
   credit: ''
   image_alt: ''
+resourcetype: Image
 title: test 3
 uid: 958f3881-ae80-429e-8585-f6fb747f605f
 ---
