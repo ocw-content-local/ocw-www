@@ -3,7 +3,6 @@ content_type: resource
 description: ''
 draft: false
 file: null
-filetype: Image
 metadata:
   caption: ''
   credit: ''
