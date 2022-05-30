@@ -1,0 +1,8 @@
+mainmenu:
+- identifier: aef4a4fb-fe72-4d11-8f9e-9cf3e9d98709
+  name: Test Page
+  weight: 10
+- identifier: a19f3713-22cf-477b-ab83-a46cd34ee24b
+  name: test
+  url: /pages/resource-link-testing
+  weight: 20
